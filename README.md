@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Django and AWS.
 - 💞️ I’m looking to collaborate with startups. 
 - 💬 Discuss with me about DevOps, Cloud Computing or any tech related stuff. 
-- 📫 How to reach me: Email - surendra151135@gmail.com, Twitter - @surendra_1135
+- 📫 How to reach me: Email - surendra151135@gmail.com
 - 👤 LinkedIn Profile - https://www.linkedin.com/in/surendraallam 
 - 😃 Pronouns: He/His
 
