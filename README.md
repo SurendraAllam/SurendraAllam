@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SurendraAllam
 - 👀 I’m interested in DevOps.
-- 🌱 I’m currently learning Django and AWS.
+- 👨‍💻 I'm good in Python and Java languages.
+- 🌱 I’m currently learning Django Framework, AWS and DevOps.
 - 💞️ I’m looking to collaborate with startups. 
 - 💬 Discuss with me about DevOps, Cloud Computing or any tech related stuff. 
 - 📫 How to reach me: Email - surendra151135@gmail.com
