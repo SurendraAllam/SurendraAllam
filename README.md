@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate with startups. 
 - 💬 Discuss with me about DevOps, Cloud Computing or any tech related stuff. 
 - 📫 How to reach me: Email - surendra152141@gmail.com
-- 👤 LinkedIn Profile - https://www.linkedin.com/in/surendraallam 
+- 👤 LinkedIn Profile - https://www.linkedin.com/in/surendra-allam
 - 😃 Pronouns: He/His
 
 <!---
