@@ -117,7 +117,7 @@ Scalable backend service built with Django REST Framework, handling high-through
 <td width="33%" valign="top">
 
 ### 🔹 SecureField Guard
-End-to-end system integrating relational data pipelines with RESTful APIs, optimized for performance and maintainability.
+Developed a real-time security and patrol management platform with GPS tracking, QR checkpoint verification, offline synchronization, event-driven architecture, and an AI-powered chatbot for intelligent user assistance and operational insights.
 
 **Tech Stack**
 `Python` `Django` `Docker` `PostgreSQL` `Git` `AWS`
