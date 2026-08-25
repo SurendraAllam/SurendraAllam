@@ -104,7 +104,7 @@
 <td width="33%" valign="top">
 
 ### 🔹 AI Bandobast
-Scalable backend service built with Django REST Framework, handling high-throughput API traffic with a clean, modular architecture.
+Developing an MVP for an Indian government police department to digitize and streamline bandobast operations, including event planning, force allocation, personnel deployment, duty transfers, sector/zone management, passport and ID card generation, and centralized operational monitoring. Designed with a future roadmap for AI-powered automation and decision support.
 
 **Tech Stack**
 `Python` `Django` `Git` `PostgreSQL` `Docker` `AWS` `kubernetes` 
